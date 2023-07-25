@@ -1,7 +1,7 @@
 ### Olá, eu sou o Hélio Alexandrino 👋
 
 - 🔭 Hoje trabalho com Back end
-- 🌱 Estudando Spring Boot
+- 🌱 Estudando Spring Boot | JUnit 5
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=heliogk&show_icons=true&theme=radical)
