@@ -1,51 +1,27 @@
-# Olá, eu sou o Hélio Alexandrino 👋
+Olá, eu sou o Hélio Alexandrino 👋
 
-### Software Engineer | Java Backend Developer
-Sou desenvolvedor de software com experiência em **Backend**, principalmente com **Java e Spring Boot**, atuando no desenvolvimento, evolução e sustentação de aplicações e APIs.
-Tenho experiência com arquitetura de **microsserviços**, integração entre sistemas, mensageria e bancos de dados relacionais e NoSQL.
----
+**Software Engineer | Java Backend Developer**
 
-## 🛠️ Tecnologias
-### Backend
-- Java 17+
-- Spring Boot
-- Spring Data
-- APIs REST
-- Microsserviços
-- JUnit 5
+Desenvolvedor de software com experiência em **Java e Spring Boot**, atuando no desenvolvimento, evolução e sustentação de aplicações e APIs. Experiência com **microsserviços, APIs REST, Kafka, SQL/NoSQL e Docker**.
 
-### Mensageria & Integração
-- Apache Kafka
+🛠️ Tecnologias
+**Backend:** Java 17+ · Spring Boot · REST APIs · Microsserviços
+**Mensageria:** Kafka
+**Banco de dados:** SQL · DB2 · MongoDB
+**DevOps:** Docker · Kubernetes · AWS · Git
+**Testes:** JUnit 5
 
-### Bancos de dados
-- SQL
-- DB2
-- MongoDB
+📚 Atualmente estudando
+AWS Cloud · JUnit 5 · Arquitetura de Microsserviços
 
-### DevOps & Cloud
-- Docker
-- Kubernetes
-- AWS
-- Git
-- CI/CD
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heliogk\&show_icons=true\&theme=radical)
 
-### Observabilidade
-- Grafana
-- Logs e monitoramento de aplicações
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heliogk\&layout=compact\&theme=radical)
 
-## 📚 Atualmente estudando
-- ☁️ AWS Cloud
-
-## 📊 GitHub
+📫 Contato
+- 💼 LinkedIn: [linkedin.com/in/helio-alexandrino](https://linkedin.com/in/helio-alexandrino)
+- 📧 Email: helioalexandrino@gmail.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heliogk&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heliogk&layout=compact&theme=radical)
-
----
-
-## 📫 Contato
-
-- 💼 LinkedIn: [linkedin.com/in/helio-alexandrino](https://linkedin.com/in/helio-alexandrino)
-- 📧 Email: helioalexandrino@gmail.com
-
