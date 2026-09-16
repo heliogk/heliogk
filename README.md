@@ -12,12 +12,8 @@ Desenvolvedor de software com experiência em **Java e Spring Boot**, atuando no
 **Testes:** JUnit 5
 
 📚 Atualmente estudando
-AWS Cloud · JUnit 5 · Arquitetura de Microsserviços
+AWS Cloud
 
 📫 Contato
 - 💼 LinkedIn: [linkedin.com/in/helio-alexandrino](https://linkedin.com/in/helio-alexandrino)
 - 📧 Email: helioalexandrino@gmail.com
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=heliogk&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=heliogk&layout=compact&theme=radical)
