@@ -5,12 +5,11 @@ Olá, eu sou o Hélio Alexandrino 👋
 Desenvolvedor de software com experiência em **Java e Spring Boot**, atuando no desenvolvimento, evolução e sustentação de aplicações e APIs. Experiência com **microsserviços, APIs REST, Kafka, SQL/NoSQL e Docker**.
 
 🛠️ Tecnologias
-
-**Backend:** Java 17+ · Spring Boot · REST APIs · Microsserviços
-**Mensageria:** Kafka
-**Banco de dados:** SQL · DB2 · MongoDB
-**DevOps:** Docker · Kubernetes · AWS · Git
-**Testes:** JUnit 5
+- **Backend:** Java 17+ · Spring Boot · REST APIs · Microsserviços
+- **Mensageria:** Kafka
+- **Banco de dados:** SQL · DB2 · MongoDB
+- **DevOps:** Docker · Kubernetes · AWS · Git
+- **Testes:** JUnit 5
 
 📚 Atualmente estudando
 AWS Cloud
